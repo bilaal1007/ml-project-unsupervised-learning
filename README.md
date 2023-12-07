@@ -16,7 +16,7 @@ The project will involve the following tasks:
 
 -Furthermore, using the optimal amount of clusters we ran Kmeans clustering and applied the 3 most impactful principal components to plot a 3d scatter plot showing the variance and distribution of the clusters based on the 3 main principal components used.
 
-![image](https://github.com/bilaal1007/ml-project-unsupervised-learning/assets/143028132/ca8eada9-a72f-4b70-a6fe-d89511085d3b)
+![image](https://github.com/bilaal1007/ml-project-unsupervised-learning/assets/143028132/69a089b4-9bed-46df-b139-2a0759a9d991)
 
 *an important note:
 -  Clustering in this data set are formed based on similarity of the data points, this would indicate that these grocery companies are spending similar amounts on different grocery related products. This could also be indicitive of similar spending patterns of customers which would mean that certain wholesale sales that have little variance and that are clustered together are staple items in a household (milk, detergent products etc) or very popular among their customers etc. 
